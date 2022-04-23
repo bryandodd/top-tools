@@ -6,6 +6,29 @@ Because I spend so much of my time hopping from platform-to-platform, I'm always
 
 The list I've collected here is by no means comprehensive. Some are more simple than others, and don't even really all fit into a single category. In fact, the tools you choose to build into your personal toolkit are just that - personal. But my goal with this list is to provide a sampling of some of the tools that I use every single day. I had even completely forgotten about some of the tools I included below because they've just become so ingrained in my daily routine that I take for granted the fact that at some point in my life I had to stumble across them and then incorporate them into my workflow. 
 
+* Core Components
+    * [Homebrew](#homebrewhttpsbrewsh)
+    * [Nerd Fonts](#nerd-fontshttpswwwnerdfontscom)
+    * [Powerlevel10k](#powerlevel10khttpsgithubcomromkatvpowerlevel10k)
+    * [Kitty Terminal](#kitty-terminalhttpsswkovidgoyalnetkitty)
+    * [Anaconda / Conda](#anaconda--condahttpswwwanacondacomproductsdistribution)
+    * [Visual Studio Code](#visual-studio-codehttpscodevisualstudiocom)
+    * [Lens for Kubernetes](#lens-for-kuberneteshttpsk8slensdevdesktophtml)
+* Terminal Technology
+    * [exa](#exahttpsgithubcomoghamexa)
+    * [bat](#bathttpsgithubcomsharkdpbat)
+    * [Aliases & Functions](#aliases--functions)
+    * [diff-so-fancy](#diff-so-fancyhttpsgithubcomso-fancydiff-so-fancy)
+    * [delta](#deltahttpsgithubcomdandavisondelta)
+    * [oathtool](#oathtoolhttpswwwnongnuorgoath-toolkit)
+    * [ipcalc](#ipcalchttpsjodiesdeipcalc)
+    * [jq](#jqhttpsstedolangithubiojq)
+    * [kubectx](#kubectxhttpsgithubcomahmetbkubectx)
+    * [watch](#watchhttpsgitlabcomprocps-ngprocps)
+    * [age](#agehttpsgithubcomfilosottileage)
+
+---
+
 ## Core Components
 
 ### [# Homebrew](https://brew.sh/) 
